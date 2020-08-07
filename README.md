@@ -1,0 +1,2 @@
+# wejapa_web_notes_app
+This is a note-taking application I built with NodeJs core as a project for my wejapa internship programme. No framework nor external package like Express, Hapi etc installed. Just Node like a maniac. No database used as well. The app makes heavy use of NodeJs in-built Http module (for routing and server-client connections), File System module (for holding and manipulating data) and jQuery (for ajax connection and data fetching.)
