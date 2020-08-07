@@ -65,7 +65,7 @@ const server = http.createServer((req, res) => {
         
 })
 
-server.listen(3000, (error) => {
+server.listen(process.env.PORT || 5000, (error) => {
     if(error){
         console.log('Something went wrong');
     }
