@@ -8,9 +8,10 @@ Then run npm start in your terminal
 1. Write a new note
 2. Add note to existing topic
 3. Create a new topic category if existing topic don't match your want
-4. Edit an existing note
-5. Delete a note
-6. When last note in a topic is deleted, that topic gets deleted too
+4. Read a note
+5. Edit an existing note
+6. Delete a note
+7. When last note in a topic is deleted, that topic gets deleted too
 
 
 #NOTE: This app uses no database system or third party framework/package/dependency. It is strictly based on core NodeJs Http and File System Modules.
